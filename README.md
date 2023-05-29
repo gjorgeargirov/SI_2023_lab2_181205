@@ -4,7 +4,7 @@
 
 ###  Control Flow Graph
 
-![CFG.png](..%2FDesktop%2FCFG.png)
+![CFG](https://github.com/gjorgeargirov/SI_2023_lab2_181205/assets/74425491/dfa3c15c-5dd8-4d09-a4ac-875ae8010b67)
 
 ### Цикломатска комплексност
 
